@@ -32,5 +32,9 @@ int main() {
     std::cout << "Sum: " << sum_val << std::endl;
     std::cout << "Average: " << average_val << std::endl;
 
+    
+
     return 0;
+
+    
 }
